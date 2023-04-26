@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/finance_friend/static/css/main.7e92442b.css",
+    "main.js": "/finance_friend/static/js/main.947f4551.js",
+    "static/js/787.28cb0dcd.chunk.js": "/finance_friend/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/finance_friend/index.html",
+    "main.7e92442b.css.map": "/finance_friend/static/css/main.7e92442b.css.map",
+    "main.947f4551.js.map": "/finance_friend/static/js/main.947f4551.js.map",
+    "787.28cb0dcd.chunk.js.map": "/finance_friend/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e92442b.css",
+    "static/js/main.947f4551.js"
+  ]
+}
